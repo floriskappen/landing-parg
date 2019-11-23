@@ -5,9 +5,24 @@ This is the repository for the open source project landing-parg, which will soon
 
 After cloning, use the package manager [npm](https://nodejs.org/en/) to install the required node modules for landing-parg to work.
 
-```bash
+## Project setup
+```
 npm install
-npm run dev
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
 ```
 
 ## Contributing
